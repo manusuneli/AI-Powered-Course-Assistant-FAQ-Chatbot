@@ -72,12 +72,12 @@ A powerful AI chatbot built using **LangChain**, **Google Gemini**, **Instructor
 
 ```bash
 
-git clone https://github.com/hendrix-04/-FAQ-Bot-AI-Powered-Course-Assistant
+git clone https://github.com/manusuneli/AI-Powered-Course-Assistant-FAQ-Chatbot
 
-cd gemini-faq-bot
+cd "Your Folder directory"
 ```
 
-### 2. Create a `.env` File
+### 2. Create a `.env` File 
 
 ```env
 GOOGLE_API_KEY=your-google-api-key-here
